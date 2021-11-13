@@ -12,7 +12,7 @@
     "react-dom": "^17.0.0"
   },
   "devDependencies": {
-    "@pieces-js/plugin": "0.0.5",
+    "@pieces-js/plugin": "0.0.6",
     "@types/react": "^17.0.0",
     "@types/react-dom": "^17.0.0",
     "@vitejs/plugin-react": "^1.0.0",
